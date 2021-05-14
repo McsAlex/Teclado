@@ -185,7 +185,7 @@ text3 BE0 C05 CODE BE0 0
 text6 BCA BDF CODE BCA 0
 %locals
 dist/default/production\TECLADO.X.production.o
-C:\Users\21192700\AppData\Local\Temp\s5ho.
+C:\Users\21192700\AppData\Local\Temp\s9hc.
 994 7EE 0 CODE 0
 997 7EE 0 CODE 0
 1044 7EE 0 CODE 0
@@ -229,8 +229,8 @@ main.c
 25 6F6 0 CODE 0
 26 6FB 0 CODE 0
 27 700 0 CODE 0
-29 70C 0 CODE 0
-30 70D 0 CODE 0
+30 70C 0 CODE 0
+31 70D 0 CODE 0
 LCD4vias.c
 123 631 0 CODE 0
 125 631 0 CODE 0

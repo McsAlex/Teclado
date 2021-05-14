@@ -26,5 +26,6 @@ void main(void)
             str[7] = ' ';
         dispLCD( 1,0, str );
 
+        
     }
 }

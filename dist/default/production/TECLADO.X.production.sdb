@@ -66,7 +66,7 @@
 [v main@str str `[11]uc  1 a 11 4 ]
 "16
 [v main@F1287 F1287 `[11]uc  1 s 11 F1287 ]
-"30
+"31
 } 0
 "123 Z:\Progamação\TECLADO.X\LCD4vias.c
 [v _dispLCD_init dispLCD_init `(v  1 e 1 0 ]
